@@ -1,0 +1,16 @@
+{
+  "name": "v8engine",
+  "version": "0.0.6",
+  "description": "Abstraction class of Node.js internal V8 Engine.",
+  "main": "index.js",
+  "keywords": [
+    "v8",
+    "v8engine",
+    "v8scriptengine",
+    "context",
+    "vm",
+    "binding"
+  ],
+  "author": "Jochem Stoel (jochemstoel.github.io)",
+  "license": "ISC"
+}
